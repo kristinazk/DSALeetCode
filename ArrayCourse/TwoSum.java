@@ -8,12 +8,11 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 ----------------------------------------------------------------------
 The output after submitting:
-Accepted 63 / 63 testcases passed
-Runtime: 2ms Beats 99.11%
-Memory: 47.28 MB Beats 20.44%
+Accepted: 63 / 63 testcases passed
+Runtime: 2ms, Beats 99.11%
+Memory: 47.28 MB, Beats 20.44%
 
 Using a HashMap reduces the complexity since search of elements is performed in linear time O(1)
-
 This way, the time complexity of the algorithm becomes O(n)
  */
 
